@@ -1,6 +1,6 @@
 ![FuryMine](http://static1.textcraft.net/data1/7/d/7d7404c4bef7a612403d1ead377d408854421c14a36ef2b186cc753e2738a658aaf3be086de91359da39a3ee5e6b4b0d3255bfef95601890afd8070924e940ee5cfbfdbc93145017985db50a.png)
 
-## FuryMine is a ThirdParty PocketMine build which is made to imporve performance by removing useless features and adding useful features
+FuryMine is a ThirdParty PocketMine build which is made to imporve performance by removing useless features and adding useful features
 
 ## Third-party Libraries/Protocols Used
 * __[PHP Sockets](http://php.net/manual/en/book.sockets.php)__
